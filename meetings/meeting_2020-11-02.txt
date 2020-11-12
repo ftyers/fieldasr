@@ -1,0 +1,33 @@
+NIS 2020-2022 Field ASR 
+-----------------------------------
+
+Present: Fran, Cydnie, Nastya, Tanya, Emil, (Oleg)
+    
+Agenda:
+    - Introductions    
+    - Objectives
+        - Make low resource ASR that works
+    - Tasks
+        - Literature review
+              https://arxiv.org/abs/1904.05862
+              http://proceedings.mlr.press/v97/ren19a/ren19a.pdf
+              https://arxiv.org/pdf/1912.06670.pdf
+              https://arxiv.org/abs/2006.11477
+    - Try out some ASR system: e.g.
+      - wav2letter++
+      - (pytorch) kaldi
+      - mozilla deepspeech
+      - nvidia nemo
+    - Look at some data
+      - https://chuklang.ru/
+      - https://commonvoice.mozilla.org/datasets
+      - https://tlahtolli.coerll.utexas.edu/
+
+    - Search for Chukchi, Tatar, Chuvash, Nahuatl on YouTube
+    - Search for radio stations for regions where those languages might be spoken.
+    - Set up GitHub repository (Fran)
+    - Some deadlines:
+      - 17th,18th November: Presentation
+
+
+
