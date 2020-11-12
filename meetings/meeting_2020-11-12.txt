@@ -1,0 +1,36 @@
+NIS 2020-2022 Field ASR 
+-----------------------------------
+
+Present: Fran, Cydnie, Nastya, Emil
+Absent: Tanya, Oleg
+
+Agenda:
+    Updates
+        
+    
+    
+    
+    Datasets:
+        Chukchi:
+        https://chuklang.ru
+        
+        
+    Tasks:
+
+    - Investigate if Montreal Forced Aligner can be used to segment Chukchi
+
+    - Finding out when to run a workshop
+
+    - Read https://arxiv.org/pdf/1910.10261.pdf and https://arxiv.org/abs/1712.05884 and find an additional 4 articles each
+
+    - Read the asr&tts paper and determine what subcomponents/modules there are
+
+
+
+    Useful links:
+
+    - https://towardsdatascience.com/denoising-autoencoders-explained-dbb82467fc2
+
+    - https://en.wikipedia.org/wiki/Autoencoder (Denoising autoencoder (DAE))
+
+
