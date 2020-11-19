@@ -1,0 +1,49 @@
+NIS 2020-2022 Field ASR 
+-----------------------------------
+
+Present: Fran, Cydnie, Nastya, Emil
+Absent: Oleg
+
+Agenda:
+    Updates
+        
+    Datasets:
+
+        
+        
+    Tasks:
+
+
+    - Read https://arxiv.org/pdf/1910.10261.pdf and https://arxiv.org/abs/1712.05884 and find an additional 4 articles each
+
+    - Add papers to the bibliography in GitHub
+
+    - Install some ASR system and train with the Common Voice "target segments" dataset
+
+    - Continue working on data collection and data processing
+
+    - Get access to server
+
+
+    Modules:
+
+    - Denoising autoencoder
+
+    - Dual transformation
+
+    - Transformer
+
+    - Input/output
+
+
+    Useful links:
+
+    - https://towardsdatascience.com/denoising-autoencoders-explained-dbb82467fc2
+
+    - https://en.wikipedia.org/wiki/Autoencoder (Denoising autoencoder (DAE))
+
+
+
+    - https://github.com/tyiannak/pyAudioAnalysis/wiki/5.-Segmentation
+
+    - Useful keyphrases are "audio segmentation" or "diarisation" or "voice-activity detection"
