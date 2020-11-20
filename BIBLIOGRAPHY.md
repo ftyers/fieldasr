@@ -11,7 +11,8 @@
 * [Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions](https://arxiv.org/abs/1712.05884)
 * [Acquiring language from speech by learning to remember and predict](https://www.aclweb.org/anthology/2020.conll-1.15.pdf)
 * [Modeling unsupervised phonetic and phonological learning in Generative Adversarial Phonology Generative Adversarial Phonology](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1129&context=scil)
-* [Completely Unsupervised Speech Recognition By A Generative AdversarialNetwork Harmonized With Iteratively Refined Hidden Markov Models](https://arxiv.org/pdf/1904.04100.pdf)
+* [Completely Unsupervised Speech Recognition By A Generative Adversarial Network Harmonized With Iteratively Refined Hidden Markov Models](https://arxiv.org/pdf/1904.04100.pdf)
+* [Robust Training of Vector Quantized Bottleneck Models](https://arxiv.org/pdf/2005.08520.pdf)
 
 ## Background reading
 
