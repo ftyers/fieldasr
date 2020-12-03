@@ -13,3 +13,6 @@
 * https://globalrecordings.net/ru/language/4511
 
 ### Text
+
+* http://charles.weinstein.free.fr/chukches/LIT/litt.html 
+* http://charles.weinstein.free.fr/chukches/LIT/litt_ru.html 
