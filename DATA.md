@@ -9,7 +9,8 @@
 * https://www.youtube.com/watch?v=V5q6SpQvOjA
 * https://www.youtube.com/watch?v=MryzWeCpVD8
 * https://www.youtube.com/watch?v=r2Ok3wzMqn8
-
+* https://www.youtube.com/watch?v=yf7hyCjqkLQ&ab_channel=dimuska
+* https://www.youtube.com/watch?v=7CK8LzkL3fo&ab_channel=WorldLanguageMovies
 * https://globalrecordings.net/ru/language/4511
 
 ### Text
