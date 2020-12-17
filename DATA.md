@@ -15,5 +15,15 @@
 
 ### Text
 
+#### Charles.weinstein
+
 * http://charles.weinstein.free.fr/chukches/LIT/litt.html 
 * http://charles.weinstein.free.fr/chukches/LIT/litt_ru.html 
+* http://charles.weinstein.free.fr/chukches/LIT/Yat_S_t.htm
+* http://charles.weinstein.free.fr/chukches/GRAM/B16-Chisliteln.html
+* http://charles.weinstein.free.fr/chukches/LEX/Lex_shamany_ru.html
+* http://charles.weinstein.free.fr/chukches/LIT/Uroki_tch.htm
+* http://charles.weinstein.free.fr/chukches/LEX/Lex_tchouvstva4_ru.html
+* http://charles.weinstein.free.fr/chukches/LIT/Tynetegyn.htm
+* http://charles.weinstein.free.fr/chukches/LEX/Lex-Temps-fr.html
+* http://charles.weinstein.free.fr/chukches/GRAM/7-Sklonenie.html
