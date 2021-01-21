@@ -1,0 +1,37 @@
+NIS 2020-2022 Field ASR 
+-----------------------------------
+
+Present: Fran, Cydnie, Tanya, Emil, Nastya
+Absent: Oleg, 
+
+Agenda:
+    Updates
+        - Tanya: Downloaded 100k Chukchi tokens from various places, working on removing Russian
+        - Nastya: Cut most audios with pyAudioAnalysis, some issues 
+        - Cydnie: Completely extracted, 
+        - Emil: Sent letter, waiting for response.
+    
+    Datasets:
+        
+        
+    Tasks:
+
+    Tanya: Remove Russian from corpus
+
+    Cydnie:  Processing text
+
+    Nastya: Forced alignment
+
+    Emil: Try splitting broken files and with forced alignment
+
+
+    Interesting papers:
+        
+        
+
+
+    Useful links:
+
+
+
+
