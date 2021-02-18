@@ -1,0 +1,23 @@
+NIS 2020-2022 Field ASR 
+-----------------------------------
+
+Present: Fran, Cydnie, Tanya, Emil, Nastya
+Absent: Oleg, 
+
+Agenda:
+
+
+Updates:
+
+	- Nastya: Issues with python
+	- Emil: tried finding a DAE but couldn't, got more data (January) from Chukchi radio
+	- Cydnie: started splitting stuff, perhaps 1month.
+	- Tanya: Finished with text data
+
+
+TODO:
+	- Emil: Add CSVs to the github repository where there is filename,transcript
+		- One csv per: train, dev, test
+	- Tanya: Work on audio processing, e.g. load the files, convert to MFCC and produce audio with griffin-lim
+	- Nastya: Continue investigating DAEs
+	- Cydnie: Keep splitting!
