@@ -2,6 +2,12 @@
 
 ## Audio
 
+### Fairy tales
+* [Пипиӄылгын ынкъам рэӄокалгын (Сказка "Мышка и лисица")](https://drive.gybka.com/song/14507495/Antonina_Kymytvaal_-_Pipi_ylgyn_ynkam_re_okalgyn_Skazka_Myshka_i_lisica/)
+* [Вэтлы ынкъам мэлёталгык'ай (Сказка "Ворон и зайчик")](https://drive.gybka.com/song/20362227/Antonina_Kymytvaal_-_Vetly_ynkam_melyotalgyk_aj_Skazka_Voron_i_zajchik/)
+* [И'ны, вэтлы ынкъам кытэпалгын (Сказка "Волк, ворон и горный баран")](https://drive.gybka.com/song/27930653/Antonina_Kymytvaal_-_I_ny_vetly_ynkam_kytepalgyn_Skazka_Volk_voron_i_gornyj_baran/)
+* [Мэлёталгык’ай ынкъам кэлы (Сказка "Зайчик и чёрт")](https://drive.gybka.com/song/36902558/Antonina_Kymytvaal_-_Melyotalgyk_aj_ynkam_kely_Skazka_Zajchik_i_chyort/)
+
 ## Video
 
 ### Channel "ARCTIC MEGAPEDIA"
