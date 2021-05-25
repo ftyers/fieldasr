@@ -2,15 +2,15 @@
 
 ## Audio
 
-### Fairy tales
+### Fairy tales (11 minutes 20 seconds)
 * [Пипиӄылгын ынкъам рэӄокалгын (Сказка "Мышка и лисица")](https://drive.gybka.com/song/14507495/Antonina_Kymytvaal_-_Pipi_ylgyn_ynkam_re_okalgyn_Skazka_Myshka_i_lisica/)
 * [Вэтлы ынкъам мэлёталгык'ай (Сказка "Ворон и зайчик")](https://drive.gybka.com/song/20362227/Antonina_Kymytvaal_-_Vetly_ynkam_melyotalgyk_aj_Skazka_Voron_i_zajchik/)
 * [И'ны, вэтлы ынкъам кытэпалгын (Сказка "Волк, ворон и горный баран")](https://drive.gybka.com/song/27930653/Antonina_Kymytvaal_-_I_ny_vetly_ynkam_kytepalgyn_Skazka_Volk_voron_i_gornyj_baran/)
 * [Мэлёталгык’ай ынкъам кэлы (Сказка "Зайчик и чёрт")](https://drive.gybka.com/song/36902558/Antonina_Kymytvaal_-_Melyotalgyk_aj_ynkam_kely_Skazka_Zajchik_i_chyort/)
 
-## Video
+## Video (14 hours 13 minutes 57 seconds)
 
-### Channel "ARCTIC MEGAPEDIA"
+### Channel "ARCTIC MEGAPEDIA" (4 hours 55 minutes 29 seconds)
 * [nuvano2](https://www.youtube.com/watch?v=VVul1mAuiq8)
 * [Выквырагтыргыргына Л.С.](https://www.youtube.com/watch?v=7_0g6RscfWw&t)
 * [Нувано В.Н. г Анадырь](https://www.youtube.com/watch?v=EHZMdEw0s8s&t)
@@ -56,7 +56,7 @@
 * [teleuroki chukot 39](https://www.youtube.com/watch?v=ADj5HfeHqFU)
 * [teleuroki chukot 40](https://www.youtube.com/watch?v=Rq48NFTAABE)
 
-### Channel "Александр Куцкий" Project "Вэтгав. Уроки чукотского"
+### Channel "Александр Куцкий" Project "Вэтгав. Уроки чукотского" (7 hours 50 minutes 54 seconds)
 * [Вступительное слово к проекту "Вэтгав. Уроки чукотского" Михаила Зеленского и Антонины Кергитваль.](https://www.youtube.com/watch?v=TgyiFmizFac&list=PLg-mb4TwccTK1gkIv4Ls1x3bgFaJL0JQf&index=1)
 * [Урок №1. Тема «Гымнин нынны» («Моё имя»). Педагог Выквырагтыргыргына Лариса.](https://www.youtube.com/watch?v=FFApYFCuhWM&list=PLg-mb4TwccTK1gkIv4Ls1x3bgFaJL0JQf&index=4)
 * [Урок №2. Тема «Ԓьовыԓгыгыргын» («Встреча»). Педагог Грачёва Вера Алексеевна.](https://www.youtube.com/watch?v=Y8JvOojESFc&list=PLg-mb4TwccTK1gkIv4Ls1x3bgFaJL0JQf&index=3)
@@ -72,7 +72,7 @@
 * [Урок №12. Тема «Стихотворение «Ытԓянъёгты» («Братишке»). Педагог Тевлявье Елена Викторовна.](https://www.youtube.com/watch?v=sTyTM-h3b84&list=PLg-mb4TwccTK1gkIv4Ls1x3bgFaJL0JQf&index=15)
 * [Урок №13. Тема «Миӈкри тэйкык рэпаԓгъытвъат» («Как построить байдару»). Педагог Эллы Вячеслав.](https://www.youtube.com/watch?v=qsGKnfCuAZM&list=PLg-mb4TwccTK1gkIv4Ls1x3bgFaJL0JQf&index=13)
 
-### Other data sources
+### Other data sources (1 hour 27 minutes 34 seconds)
 * ["Говорит Анадырь".СССР.Вещание на луораветланском чукотском языке.14 октября 1982 г.](https://www.youtube.com/watch?v=Kg_aKEp8qhM&t)
 * [The Sound of the Chukchi language (Numbers, Greetings & The Parable)](https://www.youtube.com/watch?v=XrJiI_-IlM8&t)
 * [Блудный сын (на чукотском языке)](https://www.youtube.com/watch?v=MR8F4xFUe20&t)
