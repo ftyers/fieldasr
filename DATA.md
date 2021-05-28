@@ -85,15 +85,16 @@
 * [Чукотский Блек Металл](https://www.youtube.com/watch?v=qKkgvZYbcMI)
 * [Бескрылый гусёнок (1987) мультфильм смотреть онлайн](https://www.youtube.com/watch?v=lwitTz9Gmrw)
 
-## Text - 97377 words
+## Text - 98704 words
 
 ### News sources
 * [Internet newspaper "Extreme North"](https://www.ks87.ru/) - 42615 words
 * [A special supplement to the newspaper "Extreme North"](https://kzref.org/murgni-nutenut.html) - 27466 words
 
 ### Literature sources
-* ["Portal of National Literatures"](https://rus4all.ru/ckt/) - 4697 words
+* ["Portal of National Literatures"](https://rus4all.ru/ckt/) - 4729 words
 * [The book "По аргишному пути канчаланского чаучу"](https://iknigi.net/avtor-samira-asadova/125720-po-argishnomu-puti-kanchalanskogo-chauchu-samira-asadova/read/page-1.html) - 1424 words
+* [Lingvoforum](https://lingvoforum.net/index.php?topic=34883.0) - 1295 words
 * fairy tales - 416 words
 * riddles - 1818 words
 
