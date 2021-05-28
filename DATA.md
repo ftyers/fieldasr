@@ -85,18 +85,19 @@
 * [Чукотский Блек Металл](https://www.youtube.com/watch?v=qKkgvZYbcMI)
 * [Бескрылый гусёнок (1987) мультфильм смотреть онлайн](https://www.youtube.com/watch?v=lwitTz9Gmrw)
 
-## Text
+## Text - 97377 words
 
 ### News sources
-* [Internet newspaper "Extreme North"](https://www.ks87.ru/)
-* [A special supplement to the newspaper "Extreme North"](https://kzref.org/murgni-nutenut.html)
+* [Internet newspaper "Extreme North"](https://www.ks87.ru/) - 42615 words
+* [A special supplement to the newspaper "Extreme North"](https://kzref.org/murgni-nutenut.html) - 27466 words
 
 ### Literature sources
-* ["Portal of National Literatures"](https://rus4all.ru/ckt/)
-* [The book "По аргишному пути канчаланского чаучу"](https://iknigi.net/avtor-samira-asadova/125720-po-argishnomu-puti-kanchalanskogo-chauchu-samira-asadova/read/page-1.html)
-* fairy tales and riddles
+* ["Portal of National Literatures"](https://rus4all.ru/ckt/) - 4697 words
+* [The book "По аргишному пути канчаланского чаучу"](https://iknigi.net/avtor-samira-asadova/125720-po-argishnomu-puti-kanchalanskogo-chauchu-samira-asadova/read/page-1.html) - 1424 words
+* fairy tales - 416 words
+* riddles - 1818 words
 
-### Charles.weinstein - Grammar and thematic dictionary of the Chukchi language, a collection of Chukchi literary texts
+### Charles.weinstein - Grammar and thematic dictionary of the Chukchi language, a collection of Chukchi literary texts - 1989 words
 
 * http://charles.weinstein.free.fr/chukches/LIT/litt.html 
 * http://charles.weinstein.free.fr/chukches/LIT/litt_ru.html 
@@ -110,4 +111,4 @@
 * http://charles.weinstein.free.fr/chukches/GRAM/7-Sklonenie.html
 
 ### Other sources
-* [The Wayback Machine](https://web.archive.org/web/20110502025902/http://www.ling-atlas.jp/r/tale/list)
+* [The Wayback Machine](https://web.archive.org/web/20110502025902/http://www.ling-atlas.jp/r/tale/list) - 16952 words
