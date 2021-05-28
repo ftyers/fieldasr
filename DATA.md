@@ -96,7 +96,7 @@
 * [The book "По аргишному пути канчаланского чаучу"](https://iknigi.net/avtor-samira-asadova/125720-po-argishnomu-puti-kanchalanskogo-chauchu-samira-asadova/read/page-1.html)
 * fairy tales and riddles
 
-### Charles.weinstein
+### Charles.weinstein - Grammar and thematic dictionary of the Chukchi language, a collection of Chukchi literary texts
 
 * http://charles.weinstein.free.fr/chukches/LIT/litt.html 
 * http://charles.weinstein.free.fr/chukches/LIT/litt_ru.html 
