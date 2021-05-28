@@ -86,6 +86,16 @@
 * [Бескрылый гусёнок (1987) мультфильм смотреть онлайн](https://www.youtube.com/watch?v=lwitTz9Gmrw)
 
 ## Text
+
+### News sources
+* [Internet newspaper "Extreme North"](https://www.ks87.ru/)
+* [A special supplement to the newspaper "Extreme North"](https://kzref.org/murgni-nutenut.html)
+
+### Literature sources
+* ["Portal of National Literatures"](https://rus4all.ru/ckt/)
+* [The book "По аргишному пути канчаланского чаучу"](https://iknigi.net/avtor-samira-asadova/125720-po-argishnomu-puti-kanchalanskogo-chauchu-samira-asadova/read/page-1.html)
+* fairy tales and riddles
+
 ### Charles.weinstein
 
 * http://charles.weinstein.free.fr/chukches/LIT/litt.html 
@@ -98,3 +108,6 @@
 * http://charles.weinstein.free.fr/chukches/LIT/Tynetegyn.htm
 * http://charles.weinstein.free.fr/chukches/LEX/Lex-Temps-fr.html
 * http://charles.weinstein.free.fr/chukches/GRAM/7-Sklonenie.html
+
+### Other sources
+* [The Wayback Machine](https://web.archive.org/web/20110502025902/http://www.ling-atlas.jp/r/tale/list)
