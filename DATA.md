@@ -94,7 +94,7 @@
 * ["Portal of National Literatures"](https://rus4all.ru/ckt/) 
 * [The book "По аргишному пути канчаланского чаучу"](https://iknigi.net/avtor-samira-asadova/125720-po-argishnomu-puti-kanchalanskogo-chauchu-samira-asadova/read/page-1.html) 
 * [Lingvoforum: stories](https://lingvoforum.net/index.php?topic=34883.0), [Lingvoforum: fairy tales](https://lingvoforum.net/index.php?topic=9422.0)
-* fairy tales
+* [VK.com: fairy tales](https://vk.com/topic-9017077_20059103)
 * riddles
 
 ### Charles.weinstein - Grammar and thematic dictionary of the Chukchi language, a collection of Chukchi literary texts - 1989 words
