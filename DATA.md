@@ -95,7 +95,7 @@
 * [The book "По аргишному пути канчаланского чаучу"](https://iknigi.net/avtor-samira-asadova/125720-po-argishnomu-puti-kanchalanskogo-chauchu-samira-asadova/read/page-1.html) 
 * [Lingvoforum: stories](https://lingvoforum.net/index.php?topic=34883.0), [Lingvoforum: fairy tales](https://lingvoforum.net/index.php?topic=9422.0)
 * [VK.com: fairy tales](https://vk.com/topic-9017077_20059103)
-* [riddles](https://cyberleninka.ru/article/n/chukotskie-zagadki-materialy-k-izucheniyu)
+* [Puzzles](https://cyberleninka.ru/article/n/chukotskie-zagadki-materialy-k-izucheniyu)
 
 ### Charles.weinstein - Grammar and thematic dictionary of the Chukchi language, a collection of Chukchi literary texts 
 
