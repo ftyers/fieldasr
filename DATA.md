@@ -97,7 +97,7 @@
 * [VK.com: fairy tales](https://vk.com/topic-9017077_20059103)
 * [riddles](https://cyberleninka.ru/article/n/chukotskie-zagadki-materialy-k-izucheniyu)
 
-### Charles.weinstein - Grammar and thematic dictionary of the Chukchi language, a collection of Chukchi literary texts - 1989 words
+### Charles.weinstein - Grammar and thematic dictionary of the Chukchi language, a collection of Chukchi literary texts 
 
 * http://charles.weinstein.free.fr/chukches/LIT/litt.html 
 * http://charles.weinstein.free.fr/chukches/LIT/litt_ru.html 
@@ -111,4 +111,4 @@
 * http://charles.weinstein.free.fr/chukches/GRAM/7-Sklonenie.html
 
 ### Other sources
-* [The Wayback Machine](https://web.archive.org/web/20110502025902/http://www.ling-atlas.jp/r/tale/list) - 16952 words
+* [The Wayback Machine](https://web.archive.org/web/20110502025902/http://www.ling-atlas.jp/r/tale/list) 
