@@ -93,7 +93,7 @@
 ### Literature sources
 * ["Portal of National Literatures"](https://rus4all.ru/ckt/) 
 * [The book "По аргишному пути канчаланского чаучу"](https://iknigi.net/avtor-samira-asadova/125720-po-argishnomu-puti-kanchalanskogo-chauchu-samira-asadova/read/page-1.html) 
-* [Lingvoforum](https://lingvoforum.net/index.php?topic=34883.0) 
+* [Lingvoforum: stories](https://lingvoforum.net/index.php?topic=34883.0), [Lingvoforum: fairy tales](https://lingvoforum.net/index.php?topic=9422.0)
 * fairy tales
 * riddles
 
