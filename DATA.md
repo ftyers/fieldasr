@@ -84,18 +84,18 @@
 * [ЧАУЧУ с титрами на русском языке YouTube](https://www.youtube.com/watch?v=1wzDs4S6nPA)
 * [Бескрылый гусёнок (1987) мультфильм смотреть онлайн](https://www.youtube.com/watch?v=lwitTz9Gmrw)
 
-## Text - 98704 words
+## Text
 
 ### News sources
-* [Internet newspaper "Extreme North"](https://www.ks87.ru/) - 42615 words
-* [A special supplement to the newspaper "Extreme North"](https://kzref.org/murgni-nutenut.html) - 27466 words
+* [Internet newspaper "Extreme North"](https://www.ks87.ru/) 
+* [A special supplement to the newspaper "Extreme North"](https://kzref.org/murgni-nutenut.html) 
 
 ### Literature sources
-* ["Portal of National Literatures"](https://rus4all.ru/ckt/) - 4729 words
-* [The book "По аргишному пути канчаланского чаучу"](https://iknigi.net/avtor-samira-asadova/125720-po-argishnomu-puti-kanchalanskogo-chauchu-samira-asadova/read/page-1.html) - 1424 words
-* [Lingvoforum](https://lingvoforum.net/index.php?topic=34883.0) - 1295 words
-* fairy tales - 416 words
-* riddles - 1818 words
+* ["Portal of National Literatures"](https://rus4all.ru/ckt/) 
+* [The book "По аргишному пути канчаланского чаучу"](https://iknigi.net/avtor-samira-asadova/125720-po-argishnomu-puti-kanchalanskogo-chauchu-samira-asadova/read/page-1.html) 
+* [Lingvoforum](https://lingvoforum.net/index.php?topic=34883.0) 
+* fairy tales
+* riddles
 
 ### Charles.weinstein - Grammar and thematic dictionary of the Chukchi language, a collection of Chukchi literary texts - 1989 words
 
