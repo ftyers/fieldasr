@@ -8,7 +8,7 @@
 * [И'ны, вэтлы ынкъам кытэпалгын (Сказка "Волк, ворон и горный баран")](https://drive.gybka.com/song/27930653/Antonina_Kymytvaal_-_I_ny_vetly_ynkam_kytepalgyn_Skazka_Volk_voron_i_gornyj_baran/)
 * [Мэлёталгык’ай ынкъам кэлы (Сказка "Зайчик и чёрт")](https://drive.gybka.com/song/36902558/Antonina_Kymytvaal_-_Melyotalgyk_aj_ynkam_kely_Skazka_Zajchik_i_chyort/)
 
-## Video (14 hours 13 minutes 57 seconds)
+## Video (14 hours 11 minutes 13 seconds)
 
 ### Channel "ARCTIC MEGAPEDIA" (4 hours 55 minutes 29 seconds)
 * [nuvano2](https://www.youtube.com/watch?v=VVul1mAuiq8)
@@ -72,7 +72,7 @@
 * [Урок №12. Тема «Стихотворение «Ытԓянъёгты» («Братишке»). Педагог Тевлявье Елена Викторовна.](https://www.youtube.com/watch?v=sTyTM-h3b84&list=PLg-mb4TwccTK1gkIv4Ls1x3bgFaJL0JQf&index=15)
 * [Урок №13. Тема «Миӈкри тэйкык рэпаԓгъытвъат» («Как построить байдару»). Педагог Эллы Вячеслав.](https://www.youtube.com/watch?v=qsGKnfCuAZM&list=PLg-mb4TwccTK1gkIv4Ls1x3bgFaJL0JQf&index=13)
 
-### Other data sources (1 hour 27 minutes 34 seconds)
+### Other data sources (1 hour 25 minutes 50 seconds)
 * ["Говорит Анадырь".СССР.Вещание на луораветланском чукотском языке.14 октября 1982 г.](https://www.youtube.com/watch?v=Kg_aKEp8qhM&t)
 * [The Sound of the Chukchi language (Numbers, Greetings & The Parable)](https://www.youtube.com/watch?v=XrJiI_-IlM8&t)
 * [Блудный сын (на чукотском языке)](https://www.youtube.com/watch?v=MR8F4xFUe20&t)
@@ -82,7 +82,6 @@
 * [Стихотворение А.С. Пушкина "Талисман" на чукотском языке. Часть 1](https://www.youtube.com/watch?v=PR8jjgwgl1I)
 * [Стихотворение А.С. Пушкина "Талисман" на чукотском языке. Часть 2](https://www.youtube.com/watch?v=1jUtzz4jZiE)
 * [ЧАУЧУ с титрами на русском языке YouTube](https://www.youtube.com/watch?v=1wzDs4S6nPA)
-* [Чукотский Блек Металл](https://www.youtube.com/watch?v=qKkgvZYbcMI)
 * [Бескрылый гусёнок (1987) мультфильм смотреть онлайн](https://www.youtube.com/watch?v=lwitTz9Gmrw)
 
 ## Text - 98704 words
