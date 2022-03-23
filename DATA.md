@@ -8,8 +8,11 @@ Duration of all annotated data - 3:46:18
 
 Total duration of all audio data - 21:34:23
 
+All received audio was cut into small fragments. Sometimes it was possible to cut by pauses, so as not to cut off parts of words that may be important for ASR model training. In this case, the Python libraries [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) and [pydub](https://github.com/jiaaro/pydub) were used. Sometimes it was impossible to cut by pauses (for example, if there was music playing in the background), if this was the case, then the files were cut by 5 minutes.
+
+
 ### Radio ‘Purga’ (2 hours 32 minutes)
-One of the main sources of high-quality annotated data was the Chukchi radio station [Radio “Purga”](https://radiopurga.ru/), which has a special feature at their station in which they report news in Chukchi on a regular (almost daily) basis. 
+One of the main sources of high-quality annotated data was the Chukchi radio station [Radio “Purga”](https://radiopurga.ru/), which has a special feature at their station in which they report news in Chukchi on a regular (almost daily) basis. These audio recordings were segmented by sentences, and labeled using the software ELAN.
 
 ### Bible Audio (3 hours 36 minutes 52 seconds)
 The resource [Bible.is](https://www.faithcomesbyhearing.com/audio-bible-resources/bible-is) contains chapters from the Bible in a variety of languages from around the world, including Chukchi. Some Bible chapters do have a text annotation (for example, The Gospel of Luke), and some don’t (The Book of Jonah).
