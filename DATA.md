@@ -3,7 +3,9 @@
 ## Audio in WAV format
 
 Duration of all unannotated data - 17:48:05
+
 Duration of all annotated data - 3:46:18
+
 Total duration of all audio data - 21:34:23
 
 ### Radio ‘Purga’ (2 hours 32 minutes)
