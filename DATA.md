@@ -12,7 +12,7 @@ Total duration of all audio data - 21:34:23
 One of the main sources of high-quality annotated data was the Chukchi radio station [Radio “Purga”](https://radiopurga.ru/), which has a special feature at their station in which they report news in Chukchi on a regular (almost daily) basis. 
 
 ### Bible Audio (3 hours 36 minutes 52 seconds)
-The resource [Bible.is](https://www.faithcomesbyhearing.com/audio-bible-resources/bible-is) contains chapters from the Bible in a variety of languages from around the world, including Chukchi. Some Bible chapters do have a text annotation (for example, The Gospel of Luke), and some don’t (The Book of Jonah)
+The resource [Bible.is](https://www.faithcomesbyhearing.com/audio-bible-resources/bible-is) contains chapters from the Bible in a variety of languages from around the world, including Chukchi. Some Bible chapters do have a text annotation (for example, The Gospel of Luke), and some don’t (The Book of Jonah).
 
 ### Chuklang Corpora (1 hour 14 minutes 18 seconds)
 The [Chuklang Corpora](https://chuklang.ru/) was created by professors and students of the National Research University - Higher School of Economics in Moscow, Russia, during the linguistic expeditions to the village of Amguema in the Iultinsky District of the Chukotka Autonomous Okrug. 
