@@ -1,6 +1,19 @@
 # Chukchi Datasources
 
-## Audio
+## Audio in WAV format
+
+Duration of all unannotated data - 17:48:05
+Duration of all annotated data - 3:46:18
+Total duration of all audio data - 21:34:23
+
+### Radio ‘Purga’ (2 hours 32 minutes)
+One of the main sources of high-quality annotated data was the Chukchi radio station [Radio “Purga”](https://radiopurga.ru/), which has a special feature at their station in which they report news in Chukchi on a regular (almost daily) basis. 
+
+### Bible Audio (3 hours 36 minutes 52 seconds)
+The resource [Bible.is](https://www.faithcomesbyhearing.com/audio-bible-resources/bible-is) contains chapters from the Bible in a variety of languages from around the world, including Chukchi. Some Bible chapters do have a text annotation (for example, The Gospel of Luke), and some don’t (The Book of Jonah)
+
+### Chuklang Corpora (1 hour 14 minutes 18 seconds)
+The [Chuklang Corpora](https://chuklang.ru/) was created by professors and students of the National Research University - Higher School of Economics in Moscow, Russia, during the linguistic expeditions to the village of Amguema in the Iultinsky District of the Chukotka Autonomous Okrug. 
 
 ### Fairy tales (11 minutes 20 seconds)
 * [Пипиӄылгын ынкъам рэӄокалгын (Сказка "Мышка и лисица")](https://drive.gybka.com/song/14507495/Antonina_Kymytvaal_-_Pipi_ylgyn_ynkam_re_okalgyn_Skazka_Myshka_i_lisica/)
@@ -8,9 +21,10 @@
 * [И'ны, вэтлы ынкъам кытэпалгын (Сказка "Волк, ворон и горный баран")](https://drive.gybka.com/song/27930653/Antonina_Kymytvaal_-_I_ny_vetly_ynkam_kytepalgyn_Skazka_Volk_voron_i_gornyj_baran/)
 * [Мэлёталгык’ай ынкъам кэлы (Сказка "Зайчик и чёрт")](https://drive.gybka.com/song/36902558/Antonina_Kymytvaal_-_Melyotalgyk_aj_ynkam_kely_Skazka_Zajchik_i_chyort/)
 
-## Video (14 hours 11 minutes 13 seconds)
+### Video (14 hours 11 minutes 13 seconds)
+All videos found were then converted into WAV format
 
-### Channel "ARCTIC MEGAPEDIA" (4 hours 55 minutes 29 seconds)
+#### Channel "ARCTIC MEGAPEDIA" (4 hours 55 minutes 29 seconds)
 * [nuvano2](https://www.youtube.com/watch?v=VVul1mAuiq8)
 * [Выквырагтыргыргына Л.С.](https://www.youtube.com/watch?v=7_0g6RscfWw&t)
 * [Нувано В.Н. г Анадырь](https://www.youtube.com/watch?v=EHZMdEw0s8s&t)
@@ -56,7 +70,7 @@
 * [teleuroki chukot 39](https://www.youtube.com/watch?v=ADj5HfeHqFU)
 * [teleuroki chukot 40](https://www.youtube.com/watch?v=Rq48NFTAABE)
 
-### Channel "Александр Куцкий" Project "Вэтгав. Уроки чукотского" (7 hours 50 minutes 54 seconds)
+#### Channel "Александр Куцкий" Project "Вэтгав. Уроки чукотского" (7 hours 50 minutes 54 seconds)
 * [Вступительное слово к проекту "Вэтгав. Уроки чукотского" Михаила Зеленского и Антонины Кергитваль.](https://www.youtube.com/watch?v=TgyiFmizFac&list=PLg-mb4TwccTK1gkIv4Ls1x3bgFaJL0JQf&index=1)
 * [Урок №1. Тема «Гымнин нынны» («Моё имя»). Педагог Выквырагтыргыргына Лариса.](https://www.youtube.com/watch?v=FFApYFCuhWM&list=PLg-mb4TwccTK1gkIv4Ls1x3bgFaJL0JQf&index=4)
 * [Урок №2. Тема «Ԓьовыԓгыгыргын» («Встреча»). Педагог Грачёва Вера Алексеевна.](https://www.youtube.com/watch?v=Y8JvOojESFc&list=PLg-mb4TwccTK1gkIv4Ls1x3bgFaJL0JQf&index=3)
@@ -72,7 +86,7 @@
 * [Урок №12. Тема «Стихотворение «Ытԓянъёгты» («Братишке»). Педагог Тевлявье Елена Викторовна.](https://www.youtube.com/watch?v=sTyTM-h3b84&list=PLg-mb4TwccTK1gkIv4Ls1x3bgFaJL0JQf&index=15)
 * [Урок №13. Тема «Миӈкри тэйкык рэпаԓгъытвъат» («Как построить байдару»). Педагог Эллы Вячеслав.](https://www.youtube.com/watch?v=qsGKnfCuAZM&list=PLg-mb4TwccTK1gkIv4Ls1x3bgFaJL0JQf&index=13)
 
-### Other data sources (1 hour 25 minutes 50 seconds)
+#### Other data sources (1 hour 25 minutes 50 seconds)
 * ["Говорит Анадырь".СССР.Вещание на луораветланском чукотском языке.14 октября 1982 г.](https://www.youtube.com/watch?v=Kg_aKEp8qhM&t)
 * [The Sound of the Chukchi language (Numbers, Greetings & The Parable)](https://www.youtube.com/watch?v=XrJiI_-IlM8&t)
 * [Блудный сын (на чукотском языке)](https://www.youtube.com/watch?v=MR8F4xFUe20&t)
