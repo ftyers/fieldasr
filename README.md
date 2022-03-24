@@ -22,3 +22,8 @@ All the rights to the code belong to the respective authors, mentioned in the [a
 All the rights to the [text data](data/text_corpus.txt), collected from open sources and included in this repository for educational and scientific purposes, belong to the respective authors, as well.
 
 Everything else is licensed under the [MIT license](LICENSE.md)
+
+## About us
+
+2020-2022 Master's students of Higher School of Economics (Russia, Moscow) in "Computational Linguistics" *Emil Nadimanov*, *Anastasia Safonova*, *Tatiana Yudina* and Master's student in "Linguistic Theory and Language Description" *Sidney Davenport*. Assistant Professor in Linguistics of Indiana University Bloomington (Indiana, USA) and Higher School of Economics (Moscow, Russia)  *Francis Tyers*. 
+Scientific advisors: Visiting faculty member of Higher School of Economics (Russia, Moscow) *Serikov Oleg*, research assistant of Indiana University Bloomington (Indiana, USA) *Anurag Kumar*, graduate student of Indiana University Bloomington (Indiana, USA) *Anastasia Kuznetsova*.
